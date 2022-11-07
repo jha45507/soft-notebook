@@ -38,7 +38,7 @@ export const Loging = () => {
     return (
         <>
         <ToastContainer />
-            <h1 className='text-center my-3'>Welcome to Soft Sote App </h1>
+            <h1 className='text-center my-3'>Welcome to Softnotes App </h1>
             <p className='text-center fs-5 fw-bold'>Please Login to continue to i-Notebiok App !</p>
             <div className='d-flex justify-content-center my-4 container'>
                 <div className='py-4 px-5 bg-secondary rounded-2'>

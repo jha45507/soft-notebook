@@ -37,7 +37,7 @@ const SingnUp = () => {
     return (
         <>
         <ToastContainer />
-            <h1 className='text-center my-3'>Welcome to Soft Notes App</h1>
+            <h1 className='text-center my-3'>Welcome to Softnotes App</h1>
             <p className='text-center fw-bold fs-5'>Please SignUp to use to i-Notebiok App !</p>
             <div className='d-flex justify-content-center my-4 container'>
                 <div className='py-4 px-5 bg-secondary rounded-2'>
