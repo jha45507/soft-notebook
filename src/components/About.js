@@ -2,7 +2,7 @@ export const About = (props) => {
   return (
     <><div className='container'>
       <div className='my-3'>
-        <h1>About Notes</h1>
+        <h1> About Notes </h1>
       </div>
       <div className='my-2 '>
         <h3>What Is a Note?</h3>
