@@ -19,7 +19,7 @@ const SingnUp = () => {
         });
         const json = await response.json()
         
-        if (json) {
+        if (json.authtoken) {
             localStorage.setItem("token", json.authtoken);
             toast.success("you are signup")
             setTimeout(() => {
